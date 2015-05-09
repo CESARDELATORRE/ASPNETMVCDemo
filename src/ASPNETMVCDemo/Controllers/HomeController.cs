@@ -22,7 +22,7 @@ namespace ASPNETMVCDemo.Controllers
 
         public IActionResult Contact()
         {
-            ViewBag.Message = "CESAR DE LA TORRE";
+            ViewBag.Message = "CESAR DE LA TORRE.";
 
             return View();
         }
